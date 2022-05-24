@@ -1,6 +1,6 @@
 ## Overview
 
-in this project we use unsupervised machine learning to analyze a database of crypto currencies and the classify them according to their features. The end use case is for the bank to propose a new cryptocurrency  based investment portfolio to its potential clients.
+in this project I have used unsupervised machine learning to analyze a database of crypto currencies and the classify them according to their features. The end use case is for the bank to propose a new cryptocurrency  based investment portfolio to its potential clients.
 
 Our analysis includes the following steps:
 
